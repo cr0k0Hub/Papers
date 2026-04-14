@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/prikin/prog/c++/opengl_shit/create_window/cmake-build-debug",
+  "command": "/bin/g++ -I/home/prikin/prog/c++/opengl_shit/create_window/lib/glad/include -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles/create_window.dir/src/main.cpp.o -c /home/prikin/prog/c++/opengl_shit/create_window/src/main.cpp",
+  "file": "/home/prikin/prog/c++/opengl_shit/create_window/src/main.cpp",
+  "output": "/home/prikin/prog/c++/opengl_shit/create_window/cmake-build-debug/CMakeFiles/create_window.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/prikin/prog/c++/opengl_shit/create_window/cmake-build-debug",
+  "command": "/bin/gcc -I/home/prikin/prog/c++/opengl_shit/create_window/lib/glad/include -g -fdiagnostics-color=always -o CMakeFiles/glad.dir/lib/glad/src/glad.c.o -c /home/prikin/prog/c++/opengl_shit/create_window/lib/glad/src/glad.c",
+  "file": "/home/prikin/prog/c++/opengl_shit/create_window/lib/glad/src/glad.c",
+  "output": "/home/prikin/prog/c++/opengl_shit/create_window/cmake-build-debug/CMakeFiles/glad.dir/lib/glad/src/glad.c.o"
+}
+]

@@ -1,0 +1,4 @@
+/home/prikin/Загрузки/CLion-2026.1/clion-2026.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/prikin/Загрузки/CLion-2026.1/clion-2026.1/bin/ninja/linux/x64/ninja -DCMAKE_C_COMPILER=/bin/gcc -DCMAKE_CXX_COMPILER=/bin/g++ -G Ninja -S /home/prikin/prog/c++/opengl_shit/create_window -B /home/prikin/prog/c++/opengl_shit/create_window/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/prikin/prog/c++/opengl_shit/create_window/cmake-build-debug
