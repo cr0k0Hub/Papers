@@ -1,4 +1,0 @@
-/home/prikin/prog/c++/opengl_shit/create_window/cmake-build-debug/CMakeFiles/create_window.dir
-/home/prikin/prog/c++/opengl_shit/create_window/cmake-build-debug/CMakeFiles/glad.dir
-/home/prikin/prog/c++/opengl_shit/create_window/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/prikin/prog/c++/opengl_shit/create_window/cmake-build-debug/CMakeFiles/rebuild_cache.dir
